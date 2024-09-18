@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\customizercard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\customizercard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uifeatureviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uifeatureviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\feature\\featurelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\feature\\featurelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\feature\\createfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\feature\\createfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uicontactviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uicontactviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uimessageviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uimessageviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uisliderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uisliderviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uitestimonialviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uitestimonialviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\components\\_uifooterviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\components\\_uifooterviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|c:\\users\\metin\\source\\repos\\restoranmenu\\acunmedyamenu\\views\\shared\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652E2313-B8D1-49FD-BDD2-0060A47D8F75}|AcunMedyaMenu\\AcunMedyaMenu.csproj|solutionrelative:acunmedyamenu\\views\\shared\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\CustomizerCard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\CustomizerCard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\CustomizerCard\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\CustomizerCard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:55:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIFeatureViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIFeatureViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIFeatureViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIFeatureViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:50:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateFeature.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\UpdateFeature.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Feature\\UpdateFeature.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\UpdateFeature.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Feature\\UpdateFeature.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:44:15.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeatureList.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\FeatureList.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Feature\\FeatureList.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\FeatureList.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Feature\\FeatureList.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:44:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateFeature.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\CreateFeature.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Feature\\CreateFeature.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Feature\\CreateFeature.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Feature\\CreateFeature.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:44:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIContactViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIContactViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIContactViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIContactViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:43:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:42:19.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIMessageViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIMessageViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIMessageViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIMessageViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:42:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UISliderViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UISliderViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UISliderViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UISliderViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:42:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UITestimonialViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UITestimonialViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UITestimonialViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UITestimonialViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:42:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIFooterViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIFooterViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\Components\\_UIFooterViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\Components\\_UIFooterViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:41:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\UILayout\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "AcunMedyaMenu\\Views\\Shared\\UILayout\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\metin\\source\\repos\\RestoranMenu\\AcunMedyaMenu\\Views\\Shared\\UILayout\\_UILayout.cshtml",
+              "RelativeToolTip": "AcunMedyaMenu\\Views\\Shared\\UILayout\\_UILayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T12:40:57.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
