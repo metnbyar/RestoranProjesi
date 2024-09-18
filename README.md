@@ -1,5 +1,5 @@
-AcunmedyaMenu
-AcunmedyaMenu, ASP.NET Core 6.0 MVC kullanılarak geliştirilmiş, kapsamlı bir yönetim paneli ve kullanıcı arayüzü sunan bir projedir. Bu proje, kullanıcıların rezervasyonlar oluşturmasına, siparişler vermesine, menüyü görüntülemesine ve mesaj göndermesine olanak tanırken, yöneticilere de ürün ekleme, silme, güncelleme ve kategori yönetimi gibi CRUD işlemleri gerçekleştirme imkanı sağlar.
+RestoranMenu
+RestoranMenu, ASP.NET Core 6.0 MVC kullanılarak geliştirilmiş, kapsamlı bir yönetim paneli ve kullanıcı arayüzü sunan bir projedir. Bu proje, kullanıcıların rezervasyonlar oluşturmasına, siparişler vermesine, menüyü görüntülemesine ve mesaj göndermesine olanak tanırken, yöneticilere de ürün ekleme, silme, güncelleme ve kategori yönetimi gibi CRUD işlemleri gerçekleştirme imkanı sağlar.
 
 Özellikler
 Kullanıcı Arayüzü:
